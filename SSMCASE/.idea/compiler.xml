@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="SSMCASE" target="1.5" />
+      <module name="ssmcase-web" target="1.8" />
+      <module name="ssmcase_dao" target="1.8" />
+      <module name="ssmcase_domain" target="1.8" />
+      <module name="ssmcase_service" target="1.8" />
+      <module name="ssmcase_utils" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

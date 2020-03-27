@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssw:war">
+    <output-path>$PROJECT_DIR$/ssw/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssw</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssw.war">
+      <element id="artifact" artifact-name="ssw:war exploded" />
+    </root>
+  </artifact>
+</component>
